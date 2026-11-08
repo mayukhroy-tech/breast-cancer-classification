@@ -210,7 +210,7 @@ The Streamlit application (`app.py`) is designed to provide:
 1.  Clone the GitHub repository:
 
     ``` bash
-    git clone <YOUR_GITHUB_REPOSITORY_URL>
+    git clone <https://github.com/mayukhroy-tech/breast-cancer-classification>
     cd breast_cancer_project
     ```
 
