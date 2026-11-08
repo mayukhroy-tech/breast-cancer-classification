@@ -222,5 +222,5 @@ The Streamlit application (`app.py`) is designed to provide:
 -   **Student ID:** 2026AJ05384
 -   **Programme:** M.Tech in Artificial Intelligence and Machine
     Learning, BITS Pilani
--   **Development environment:** Google Colab
+-   **Development environment:** Bits Lab
 -   **Application framework:** Streamlit
